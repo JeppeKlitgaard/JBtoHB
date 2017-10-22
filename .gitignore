@@ -3,6 +3,7 @@
 
 ### JBtoHB ###
 *.csv
+!example_data.csv
 
 ### Python ###
 # Byte-compiled / optimized / DLL files
